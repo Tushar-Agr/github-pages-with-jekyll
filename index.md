@@ -1,3 +1,3 @@
-# Welcome to my blog
+# I'm Tushar Agrawal 
 
 I'm glad you are here. I plan to talk about ...
